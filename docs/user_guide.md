@@ -1,4 +1,3 @@
-```markdown
 # Guia de Uso Operacional — Auditoria de Balanço de Massa ($m^2$) e Rateio de Refile
 
 ## 1. Visão Geral do Processo
